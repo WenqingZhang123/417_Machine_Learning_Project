@@ -1,0 +1,1 @@
+{"C": 100, "gamma": 10, "kernel": "rbf"}
